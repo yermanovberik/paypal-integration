@@ -1,0 +1,4 @@
+paypal:
+  client-id: AciClmVrEq7EwUAkQEtVE_MEQzKgINueC7S9RjRqe6NyQNreDoScKODDAOTuK9M5SDn3YEmAqkHTLDSd
+  client-secret: EFpmQGIL49gtbYjmGkrrWrYU_boWKfVpsHBLjhJughLKyF1FiZHXf-7tB2hhe_akNzgkJEPEokyD_KWz
+  mode: sandbox
